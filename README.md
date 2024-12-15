@@ -1,0 +1,3 @@
+# Improper Exception Handling in Asynchronous Dart
+
+This repository demonstrates a common error in Dart: improper exception handling within asynchronous functions.  The example shows how re-throwing exceptions without proper context can lead to unexpected behavior and crashes.  A solution is provided which demonstrates best practices for handling exceptions and providing informative error messages.
